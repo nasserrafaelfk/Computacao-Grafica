@@ -2,7 +2,7 @@
 /*
  *  Projeto: joguinho sem nome
  *  Autores:
- *  Násser - 
+ *  Násser - nasserrafael@hotmail.com
  *  Ronaldo - rzica42@gmail.com
  *
  */ 
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
    glutReshapeFunc(redimensionada);
    glutKeyboardFunc(teclaPressionada);
    glutSpecialFunc(teclaEspPressionada);
-   glutTimerFunc(0, atualizaCena, velocidade_inimigos);           // função excencial: responsável por atualizar o jogo à 30FPS
+   glutTimerFunc(0, atualizaCena, velocidade_inimigos);           // função essencial: responsável por atualizar o jogo à 30FPS
 
    setup();                                                       // inicializa o jogo, define condições iniciais
 
