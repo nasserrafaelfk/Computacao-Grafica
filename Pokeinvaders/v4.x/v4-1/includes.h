@@ -1,0 +1,44 @@
+
+#include <SOIL/SOIL.h>
+#include <GL/glew.h>
+#include <GL/freeglut.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+#include <time.h>
+
+#include "texturas.h"
+#include "variaveisGlobais.h"
+
+#include "atualizaTiroInimigo.h"
+#include "atualizaPosicaoInimigos.h"
+#include "atualizaCena.h"
+#include "chamaDesenhaInimigos.h"
+#include "chamaDesenhaTiro.h"
+#include "decide_tiro_inimigo.h"
+#include "configuraTamNaves.h"
+#include "desenhaBack.h"
+#include "desenhaInimigos.h"
+#include "desenhaMensagem.h"
+#include "desenhaMinhaCena.h"
+#include "desenhaNavinha.h"
+#include "desenhaTiro.h"
+#include "desenhaTiroInimigo.h"
+#include "encerraJogo.h"
+#include "inicializaMatrizInimigos.h"
+#include "redimensionada.h"
+#include "reiniciaJogo.h"
+#include "setup.h"
+#include "teclaEspPressionada.h"
+#include "teclaPressionada.h"
+#include "verificaColisao.h"
+#include "verificaFimDeJogo.h"
+#include "quadroInimigos.h"
+#include "quadroTiro.h"
+#include "verificaColisaoSemParar.h"
+#include "desenhaNuvens.h"
+#include "atualiza_x_nuvens.h"
+#include "desenhaVidas.h"
+#include "desenhaPokebolaCapturado.h"
+#include "quadroPokebolaCapturado.h"
+#include "desenhaMenu.h"
