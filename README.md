@@ -1,4 +1,4 @@
-<h1>Obrigado por baixar nosso jogo! Aqui está o tutorial de como executá-lo:</h1>
+<h1>Obrigado por baixar o Pokéinvaders :joystick:! Aqui está o tutorial de como executá-lo:</h1>
 
 <h2>--> Feito e desenvolvido por:</h2> 
   
