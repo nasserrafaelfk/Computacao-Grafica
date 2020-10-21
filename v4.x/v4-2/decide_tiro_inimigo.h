@@ -35,6 +35,7 @@ void decide_tiro_inimigo()
         else
         {
             flag_game_over = 1;
+            quantidade_vidas --;
         }
 
         flag_tiro_inimigo = 0;
@@ -45,5 +46,5 @@ void decide_tiro_inimigo()
       flag_tiro_inimigo = 0;					// encerra o tiro, caso ele alcance o final da tela
     }
 
-    tiro_inimigo.pos_y --;                      // desloca o tiro para baixo
+    tiro_inimigo.pos_y -= velocidade_tiro_inimigos;                      // desloca o tiro para baixo
 }

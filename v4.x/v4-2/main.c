@@ -22,7 +22,7 @@ int main(int argc, char** argv)
    glutInitWindowSize(janela_tam_x, janela_tam_y);                // da janela, também informa o tamanho da tela
    glutInitWindowPosition(janela_pos_x, janela_pos_y);            /*IMPORTANTE: MUDAR ESSA LINHA PARA MANTER PROPORCIONALIDADE*/
 
-   glutCreateWindow("joguinho");                                  // cria e nomeia janela /*MUDAR O NOME DO JOGO*/
+   glutCreateWindow("poke invaders");                                  // cria e nomeia janela /*MUDAR O NOME DO JOGO*/
 
    glutDisplayFunc(desenhaMinhaCena);                             // registra as callbacks
    glutReshapeFunc(redimensionada);

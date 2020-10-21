@@ -13,6 +13,7 @@ void encerraJogo()
 		    quadro_back[3] = 1.0;
 
 		    fim_de_jogo = 0;
+		    velocidade_tiro_inimigos = 1.25;
 
 		break;
 
@@ -26,6 +27,7 @@ void encerraJogo()
 		    quadro_back[3] = 0.5;
 
 		    fim_de_jogo = 0;
+		    velocidade_tiro_inimigos = 1.75;
 
 		break;
 
@@ -39,12 +41,14 @@ void encerraJogo()
 		    quadro_back[3] = 0.5;
 
 		    fim_de_jogo = 0;
+		    velocidade_tiro_inimigos = 2.25;
 
 		break;
 
 		case 4:
 
 			fim_de_jogo = 1;
+			velocidade_tiro_inimigos = 1;
 			
 			break;
 

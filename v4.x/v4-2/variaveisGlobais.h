@@ -98,6 +98,7 @@ signed short int flag_tiro_inimigo = 0;
 signed short int contador_tiro_inimigo = 0;
 signed short int flag_game_over = 0;
 
+float velocidade_tiro_inimigos = 1;
 float quadro_back[4];
 float quadro_vidas[4];
 
