@@ -1,9 +1,25 @@
 
 /*
- *  Projeto: joguinho sem nome
+ *  Nome do projeto: Pokéinvaders
  *  Autores:
- *  Násser - 
- *  Ronaldo - rzica42@gmail.com
+ *
+ *  Ronaldo - 
+ *                   GitHub: https://github.com/ronaldozica
+ *                   LinkedIn: https://www.linkedin.com/in/ronaldo-zica
+ *                   Email: rzica42@gmail.com
+ *  Násser  - 
+ *                   GitHub: https://github.com/nasserrafaelfk
+ *                   LinkedIn: https://www.linkedin.com/in/nasserrafael 
+ *                   Email: nasserfoster@gmail.com
+ *
+ *  Descrição do projeto:
+ *   
+ *   Projeto desenvolvido durante o segundo período do curso de Engenharia de Computação no 
+ *  CEFET-MG na modalidade Ensino Remoto. Professores: 
+ *  Flávio Coutinho e Glender Brás. O jogo é uma paródia do jogo Space
+ *  Invaders baseado em Pokémon e possui 4 fases, com diferentes inimigos 
+ *  um nível crescente de dificuldade a cada fase.
+ *  O projeto não tem fins lucrativos.
  *
  */ 
 
