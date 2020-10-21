@@ -1,11 +1,15 @@
 <h1>Obrigado por baixar nosso jogo! Aqui está o tutorial de como executá-lo:</h1>
 
-<h3>--> Feito e desenvolvido por: <p> - Násser Rafael França Kilesse
-  [![GitHub Badge](https://img.shields.io/badge/-NásserRafael-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/nasserrafaelfk/)](https://www.github.com/nasserrafaelfk/)
-  </p>
-  <p> - Ronaldo Mendonça Zica
-  [![GitHub Badge](https://img.shields.io/badge/-RonaldoZica-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ronaldozica/)](https://www.github.com/ronaldozica/)
-  </p></h3>
+<h2>--> Feito e desenvolvido por:</h2> 
+  
+  <br/> - Násser Rafael França Kilesse
+  [![Github Badge](https://img.shields.io/badge/-NásserRafael-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/nasserrafaelfk/)](https://www.github.com/nasserrafaelfk/) | 
+  [![Linkedin Badge](https://img.shields.io/badge/-NásserRafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasserrafaelfk/)](https://www.linkedin.com/in/nasserrafaelfk/)
+  
+  <br/> - Ronaldo Mendonça Zica
+  [![Github Badge](https://img.shields.io/badge/-RonaldoZica-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ronaldozica/)](https://www.github.com/ronaldozica/) |
+  [![Linkedin Badge](https://img.shields.io/badge/-RonaldoZica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-zica/)](https://www.linkedin.com/in/ronaldo-zica/)
+  
 
 <h4>1) Para realizar a instalação das bibliotecas necessárias, devemos acessar o Terminal do Linux.
 Para isso, pressione <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>t</kbd> ou procure por Terminal no Menu Linux.</h4>
